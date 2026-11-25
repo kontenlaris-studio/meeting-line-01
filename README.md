@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="assets/logo.png?v=1" width="280" alt="meeting-line-01 logo">
+
+  *The meeting that should have been one line.*
+
+  [![Python](https://img.shields.io/badge/Python-0A1931?style=for-the-badge&logo=python&labelColor=FF7A00&color=0A1931)][![License: MIT](https://img.shields.io/badge/License-MIT-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)][![By Kontenlaris Studio](https://img.shields.io/badge/By-Kontenlaris%20Studio-0A1931?style=for-the-badge&labelColor=FF7A00&color=0A1931)]
+</div>
+
 # meeting-line-01
 
 [![make.fun · u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c](https://make.fun/badge/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c.svg)](https://make.fun/bounty/u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-the-meeting-that-should-have-been-one-line-a4af6d1c)
